@@ -1,0 +1,35 @@
+Выбор повара в ресторан. Выбор шефа
+
+struct Person
+{
+	char fio[30];
+	int age;
+	int edu;
+	int ability[4];
+	int work_exp;
+	int max_work_exp;
+	int num_works;
+	int count_fired;
+};
+
+void Sort(Person* A, int k);
+
+while (in >> x.fio >> x.age >> x.edu >> x.ability[0] >> x.ability[1] >> x.ability[2] >> x.ability[3] >> x.work_exp >> x.max_work_exp >> x.num_works >> x.count_fired)
+	{
+		if ((x.age <= 50) && (x.edu == 2 || x.edu == 1) && (x.ability[0]==1)|| (x.ability[1]==1) && (x.work_exp >= 5) && (x.max_work_exp >= x.work_exp/2) && (x.count_fired <=1) && (x.num_works <=5))
+		{
+			mas[k] = x;
+			//out.write((char*)& x, sizeof(struct Person));
+			k++;
+		}
+	}
+
+while (candidates >> cand.fio >> cand.age >> cand.edu >> cand.ability[0] >> cand.ability[1] >> cand.ability[2] >> cand.ability[3] >> cand.work_exp >> cand.max_work_exp >> cand.num_works >> cand.count_fired)
+	{
+		
+		if ((cand.age <= 45) && (cand.edu == 2) && (cand.work_exp >= 15) && (cand.count_fired == 0) && (cand.num_works <= 2))
+		{
+			chef_candidates << cand.fio << " " << cand.age << " " << cand.edu << " " << cand.ability[0] << " " << cand.ability[1] << " " << cand.ability[2] << " " << cand.ability[3] << " " << cand.work_exp << " " << cand.max_work_exp << " " << cand.num_works << " " << cand.count_fired << endl;
+			k++;
+		}
+	}
