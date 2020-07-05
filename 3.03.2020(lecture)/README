@@ -1,0 +1,29 @@
+Работа с бинарными файлами и структурами.
+struct person
+{
+	char fio[40];
+	int year;
+	char sex;
+	int ms;
+	int child;
+	char edu;
+	int salary;
+};
+
+
+while (manbin.read((char*)& x, sizeof(struct person)))
+
+
+while (in >> x.fio >> x.year >> x.sex >> x.ms >> x.child >> x.edu >> x.salary)
+	{
+		if ((x.sex == 'm') && ((2020 - x.year) <= 60) && ((2020 - x.year) >= 40) && (x.child >= 2) && (x.ms == 1) && (x.edu == 'v') && (x.salary >= 40000))
+		{
+			mout.write((char*)& x, sizeof(struct person));
+			k1++;
+		}
+		if ((x.sex == 'w') && ((2020 - x.year) <= 40) && ((2020 - x.year) >= 20) && (x.child >= 2) && (x.ms == 1) && (x.edu == 'v'))
+		{
+			fout.write((char*)&x, sizeof(struct person));
+			k2++;
+		}
+	}
