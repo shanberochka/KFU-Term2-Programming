@@ -1,0 +1,10 @@
+Список. Основные функции
+///Sum of prime elements
+	cout << "Sum of prime elements: " << Sum_prime(top_my_list) << endl;
+
+///All elements are positive?
+	if (A_pos(top_my_list)) cout << "All elements are positive"<<endl;
+	else cout << "Not all elements are positive"<<endl;
+
+///Max
+	cout << "Max element: " << max(top_my_list)->data << endl;
