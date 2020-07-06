@@ -1,0 +1,5 @@
+4aaaaaaaaaaaaaa 45 2 1 0 0 0 20 15 0 0
+5aaaaaaaaaaaaaa 45 2 1 1 0 0 20 15 0 0
+8aaaaaaaaaaaaa 45 2 1 0 0 0 20 20 0 0
+1aaaaaaaaaaaaaa 50 2 1 1 0 0 15 10 0 0
+2aaaaaaaaaaaaaa 48 2 1 1 0 0 15 10 0 0
