@@ -1,1 +1,1 @@
-Need to delete: 3 brackets
+Result: -102
