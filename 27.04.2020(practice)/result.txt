@@ -1,0 +1,15 @@
+Distance between (0 and 1) = 11
+Distance between (0 and 2) = 0
+Distance between (0 and 3) = 13
+Distance between (0 and 4) = 0
+Distance between (0 and 5) = 0
+Distance between (1 and 2) = 0
+Distance between (1 and 3) = 10
+Distance between (1 and 4) = 0
+Distance between (1 and 5) = 0
+Distance between (2 and 3) = 0
+Distance between (2 and 4) = 60
+Distance between (2 and 5) = 0
+Distance between (3 and 4) = 0
+Distance between (3 and 5) = 0
+Distance between (4 and 5) = 0

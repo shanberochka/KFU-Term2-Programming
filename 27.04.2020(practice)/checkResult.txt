@@ -1,0 +1,4 @@
+Distance between (3 and 4) = 0
+Distance between (5 and 1) = 0
+Distance between (9 and 1) =  is indefinite
+Distance between (1 and 0) = 11
