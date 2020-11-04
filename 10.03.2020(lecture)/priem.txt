@@ -1,0 +1,13 @@
+List of students
+8jhdf 278
+18feffw 275
+12jfkjdf 272
+11djkfdk 264
+3ffksjf 257
+7dkdjf 252
+13skjfd 247
+10dffdf 246
+minimum=246
+Dop students
+21kjfdk 246
+22efefef 246
