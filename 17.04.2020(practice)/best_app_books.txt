@@ -1,0 +1,8 @@
+KorolDamaValet 132 Nabokov 256 1964 rus 16 5
+CvetiDlyaEldgernona 196 Keyes 320 1989 rus 16 5
+Stihi 243 Nabokov 352 1989 rus 16 5
+NabereznayaNeicelimih 272 Brodsky 192 1987 rus 12 5
+ChastRechi 272 Brodsky 144 1987 rus 12 5
+Nazidanie 320 Brodsky 260 1990 rus 12 4
+Prokosnovenie 358 Keyes 352 1977 rus 16 5
+IzobretatelValsa 358 Nabokov 480 1978 rus 16 5
